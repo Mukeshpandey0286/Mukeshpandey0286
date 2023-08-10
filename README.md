@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mukesh Pandey</h1>
-<div align="center"> <img width="300" src="https://github.com/Mukeshpandey0286/Mukeshpandey0286/blob/d52bb61308ae9d25b31eebb4f76754840a5a6958/mukku.JPG"> </div>
+<div align="center"> <img width="300" style = "border-radius: 100%;" src="https://github.com/Mukeshpandey0286/Mukeshpandey0286/blob/d52bb61308ae9d25b31eebb4f76754840a5a6958/mukku.JPG"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshpandey0286" /> </p>
