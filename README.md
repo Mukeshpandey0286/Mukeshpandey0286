@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mukesh Pandey</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/mukku.jpg"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshpandey0286" /> </p>
