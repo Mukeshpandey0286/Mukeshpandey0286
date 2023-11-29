@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="mukku" /> </p>
 
-- 🔭 I’m currently working on **OctaNet & Codsoft Intern Problems**
+- 🔭 I’m currently working on **Android Studio**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **eCommerce Website**
+- 👯 I’m looking to collaborate on **ecommerce App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mukeshpandey0286](https://github.com/Mukeshpandey0286)
 
-- 💬 Ask me about **MERN,Django,php,HTML5,Bootstrap,Tailwind,Flask,Javascript.**
+- 💬 Ask me about **MERN,Django,php,HTML5,Bootstrap,Tailwind,Flask,Javascript,Android Studio,Kotlin.**
 
 - 📫 How to reach me **pandey143d@gmail.com**
 
