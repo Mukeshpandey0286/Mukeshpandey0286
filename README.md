@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="mukku" /> </p>
-- This is my resume<a href = "https://mukeshpandey0286.github.io/My_Resume/"> **Cheack Here**</a>
+- 👨‍💻 Visit my resume [Cheack Here](https://mukeshpandey0286.github.io/My_Resume/)
+
 - 🔭 I’m currently working on **Android Studio**
 
 - 🌱 I’m currently learning **Kotlin**
