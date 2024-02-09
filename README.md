@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Mukesh Pandey</h1> 
 <div align="center"> <img width="300" style = "border-radius: 100%;" src="https://github.com/Mukeshpandey0286/Mukeshpandey0286/blob/d52bb61308ae9d25b31eebb4f76754840a5a6958/mukku.JPG"> </div>
-<h3 align="center">A passionate Full Stack Web Devloper From India. I am currently a Engineering student and in my free time I make YouTube videos at <br> <span> https://www.youtube.com/@coder_420 </span></h3>
+<h3 align="center">A passionate Full Stack Android Devloper From India. I am currently a Engineering student and in my free time I make YouTube videos at <br> <span> https://www.youtube.com/@coder_420 </span></h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="mukku" /> </p>
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **ecommerce App**
+- 👯 I’m looking to collaborate on **Food Deleviry App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mukeshpandey0286](https://github.com/Mukeshpandey0286)
 
-- 💬 Ask me about **MERN,Django,php,HTML5,Bootstrap,Tailwind,Flask,Javascript,Android Studio,Kotlin.**
+- 💬 Ask me about **MERN,HTML5,Bootstrap5,Tailwind,Javascript,Android Studio,Kotlin.**
 
 - 📫 How to reach me **pandey143d@gmail.com**
 
