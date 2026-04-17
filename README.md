@@ -1,10 +1,10 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Mukesh Pandey</h1> 
-<div align="center"> <img width="300" style = "border-radius: 100%;" src="https://github.com/Mukeshpandey0286/Mukeshpandey0286/blob/d52bb61308ae9d25b31eebb4f76754840a5a6958/mukku.JPG"> </div>
+<div align="center"> <img width="300" style = "border-radius: 100%;" src="https://i.postimg.cc/LssZHqTd/Whats-App-Image-2026-04-17-at-10-48-14-AM.jpg"> </div>
 <h3 align="center">A passionate Software Devloper From India. I am currently a Engineering student and in my free time I make YouTube videos at <br> <span> https://www.youtube.com/@coder_420 </span></h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://i.postimg.cc/LssZHqTd/Whats-App-Image-2026-04-17-at-10-48-14-AM.jpg" alt="mukku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="mukku" /> </p>
 - 👨‍💻 Visit my portfolio (https://3d-portfolio-coral-omega.vercel.app/)
 
 - 🔭 I’m currently working on **Android Studio**
